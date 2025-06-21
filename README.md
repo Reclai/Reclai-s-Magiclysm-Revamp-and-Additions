@@ -11,3 +11,5 @@ Don't expect regular updates. If this gets updated, then that means I'm in a CDD
 Feel free to fork and make changes of your own.
 
 Last update is for CDDA Experimental 2025-06-20-0644
+
+Can personally confirm it works for Experimental 2025-06-21-1515
